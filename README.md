@@ -4,7 +4,7 @@
 
 ### 📚 I am very curious and want to delve deeper into programming, as well as decide on my area of ​​specialization.
 
-## 🖥️ Languages ​​I use:
+## 👨‍💻 Languages ​​I use:
 <div style="display: inline_block"><br>
   <img align="center" alt="JL-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
   <img align="center" alt="JL-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
