@@ -2,7 +2,7 @@
 
 ## 🚀 My name is João Lucas Simões, and I am an undergraduate student in Computer Science at the State University of Ceará (UECE). 
 
-## 📚 I am very curious and want to delve deeper into programming, as well as decide on my area of ​​specialization.
+## 📚 I'm very curious and want to delve deeper into programming in general. I'm interested in many subfields of computing and am still trying to decide on my area of ​​specialization.
 
 ## 👨‍💻 Technologies that I use:
 <p align="center">
