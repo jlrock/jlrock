@@ -5,7 +5,7 @@
 ## 📚 I'm very curious and want to delve deeper into programming in general. I'm interested in many subfields of computing and am still trying to decide on my area of ​​specialization.
 
 ## 👨‍💻 Technologies that I use:
-<p align="center">
+<p align="left">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
