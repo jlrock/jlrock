@@ -10,4 +10,3 @@
   
 ## 🌐 Where to find me:
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaolucass51/)
-[![My Email](https://skillicons.dev/icons?i=gmail)](mailto:joaolucassimoesrocha@gmail.com)
