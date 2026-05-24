@@ -10,3 +10,8 @@
   
 ## 🌐 Where to find me:
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaolucass51/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlrock/jlrock/output/snake-dark.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/jlrock/jlrock/output/snake.svg">
+</picture>
