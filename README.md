@@ -1,18 +1,13 @@
 # 👋 Hello, World!
 
-## 🚀 My name is João Lucas Simões, and I am an undergraduate student in Computer Science at the State University of Ceará (UECE). 
-
-## 📚 I'm very curious and want to delve deeper into programming in general. I'm interested in many subfields of computing and am still trying to decide on my area of ​​specialization.
+## ✒️ About me:
+- 🚀 My name is João Lucas Simões, and I am an undergraduate student in Computer Science at the State University of Ceará (UECE). 
+- 📚 I'm very curious and want to delve deeper into programming and software development.
+- 💡 Currently, I'm interested in several subfields of computing and am still deciding on my area of ​​specialization.
 
 ## 👨‍💻 Technologies that I use:
-<p align="left">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,git)](https://skillicons.dev)
   
-  ## 🌐 Where to find me:
-<div> 
-  <a href="https://www.linkedin.com/in/joão-lucas-simões-rocha-424659305"><img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
-</div>
+## 🌐 Where to find me:
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaolucass51/)
+[![My Email](https://skillicons.dev/icons?i=gmail)](mailto:joaolucassimoesrocha@gmail.com)
