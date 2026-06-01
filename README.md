@@ -13,7 +13,8 @@
 ## 🌐 Where to find me:
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaolucass51/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jlrock&theme=radical&border_radius=30)](https://git.io/streak-stats)
+## 📊 Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=jlrock&theme=algolia&border_radius=30)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jlrock/jlrock/output/snake-dark.svg">
