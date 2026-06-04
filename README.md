@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CED9E&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1243FF&height=120&section=header" alt="header"/>
 
 # 👋 Hello, World!
 
@@ -11,7 +11,8 @@
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,git)](https://skillicons.dev)
 
 ## 📊 Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=jlrock&theme=radical&border_radius=30)](https://git.io/streak-stats) [![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=jlrock&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=30&card_width=466&locale=pt-br&custom_title=Top+Languages)](https://nice-readme.vercel.app/top-langs)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jlrock&theme=radical&border_radius=30)](https://git.io/streak-stats)
+[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=jlrock&layout=compact&stats_format=percentages&theme=dark&hide_border=false&border_radius=30&card_width=466&locale=pt-br&custom_title=Top+Languages)](https://nice-readme.vercel.app/top-langs)
 
 ## 🌐 Where to find me:
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaolucass51/)
@@ -21,4 +22,4 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/jlrock/jlrock/output/snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0CED9E&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1243FF&height=120&section=footer" alt="footer"/>
