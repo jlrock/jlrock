@@ -1,6 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header" alt="header"/>
-
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BF1BB&height=120&section=header" alt="header"/>
 
 # 👋 Hello, World!
 
@@ -37,6 +35,4 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/jlrock/jlrock/output/snake.svg">
 </picture>
 
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3BF1BB&height=120&section=footer" alt="footer"/>
