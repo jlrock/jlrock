@@ -16,12 +16,8 @@
 ## 📊 Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlrock&layout=compact&langs_count=6&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jlrock&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlrock&theme=radical" alt="streak stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlrock&layout=compact&langs_count=6&theme=radical"/>
 </p>
 
 ## 🌐 Where to find me
