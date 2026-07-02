@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header" alt="header"/>
 
 # 👋 Hello, World!
 
@@ -15,10 +15,8 @@
 
 ## 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jlrock&theme=radical" alt="streak stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlrock&layout=compact&langs_count=6&theme=radical"/>
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jlrock&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=jlrock&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=radical)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=jlrock&layout=compact&langs_count=8&hide_values=true&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=jlrock&layout=compact&langs_count=8&hide_values=true&theme=radical)
 
 ## 🌐 Where to find me
 
@@ -31,4 +29,4 @@
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/jlrock/jlrock/output/snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer" alt="footer"/>
