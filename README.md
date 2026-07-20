@@ -11,7 +11,12 @@
 
 ## 👨‍💻 Tools used
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,git)](https://skillicons.dev)
+<div>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="50" height="50"/>
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://skillicons.dev/icons?i=c,java,python,git" alt="My Skills">
+  </a>
+</div>
 
 ## 📊 Stats
 
