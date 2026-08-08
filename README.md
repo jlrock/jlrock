@@ -5,8 +5,11 @@
 ## ✒️ About me
 
 - 🚀 My name is João Lucas Simões, and I am an undergraduate student in Computer Science at the State University of Ceará (UECE);
-- 📚 I'm very curious and want to delve deeper into programming and software development;
-- 💡 Currently, I'm interested in several subfields of computing and am still deciding on my area of ​​specialization;
+
+- 📚 I am very curious and always seek to expand my knowledge, undertake new projects, and evolve professionally as a programmer;
+
+- 💡 I am interested in the areas of Software Development (Fullstack), Artificial Intelligence, and Machine Learning;
+
 - 🖥️ Member of the Computational Mathematics Laboratory at UECE (LaMaC).
 
 ## 👨‍💻 Tools used
