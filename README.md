@@ -29,6 +29,7 @@
 ## 🌐 Where to find me
 
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaolucass51/)
+[![My Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1360313715010044104)
 
 ---
 <picture>
